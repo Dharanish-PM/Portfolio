@@ -42,7 +42,8 @@
           <div class="highlights">
             <span class="highlight">💻 Software Engineering</span>
             <span class="highlight">🗄️ Database Systems</span>
-            <span class="highlight">🔍 Algorithms</span>
+            <span class="highlight">🔍 Data Structures and Algorithms</span>
+            <span class="highlight">🖥️ Operating System</span>
             <span class="highlight">🌐 Web Technologies</span>
           </div>
         </div>
